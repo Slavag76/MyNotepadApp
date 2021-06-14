@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">MyNotepadApp</string>
+
+    <string name="note_1">Заметка1</string>
+    <string name="note_2">Заметка2</string>
+    <string name="note_3">Заметка3</string>
+    <string name="note_4">Заметка4</string>
+    <string name="note_5">Заметка5</string>
+    <string name="note_6">Заметка6</string>
+
+    <string name="description_1">Описание 1</string>
+    <string name="description_2">Описание 2</string>
+    <string name="description_3">Описание 3</string>
+    <string name="description_4">Описание 4</string>
+    <string name="description_5">Описание 5</string>
+    <string name="description_6">Описание 6</string>
+
+    <string name="date_1">13/06/2021</string>
+    <string name="date_2">12/06/2021</string>
+    <string name="date_3">11/06/2021</string>
+    <string name="date_4">10/06/2021</string>
+    <string name="date_5">09/06/2021</string>
+    <string name="date_6">08/06/2021</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
+
