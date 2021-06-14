@@ -12,6 +12,7 @@ import java.util.ArrayList;
 
 public class MainActivity extends AppCompatActivity implements NotepadListFragment.OnNoteClicked {
 
+// Сделаны пункты ДЗ кроме переворота в landscape
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
