@@ -25,5 +25,8 @@
 
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Option_one">Option one</string>
+    <string name="Option_two">Option two</string>
+    <string name="Option_three">Option three</string>
 </resources>
 
